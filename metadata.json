@@ -1,0 +1,8 @@
+{
+  "name": "Credencial Workshop MDL FOR 30.06",
+  "description": "Credenciamento Digital do Workshop Máquina de Lucros em Fortaleza",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
